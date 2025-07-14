@@ -56,11 +56,11 @@ Captures business transactions and metrics. Includes:
 ##  SQL Queries 
  -**Created the Tables**
  
- ![Superstore_mySQL_Table Creation.sql](https://github.com/vibvinit/RDAMP-Dimensional-Model-PowerBI-/blob/main/Superstore_mySQL_Table%20Creation.sql)
+ [Superstore_mySQL_Table Creation.sql](https://github.com/vibvinit/RDAMP-Dimensional-Model-PowerBI-/blob/main/Superstore_mySQL_Table%20Creation.sql)
 
 -**Created 5 Views & 5 reusable SQL queries in MySQL**
 
-![MYSQL_Create_views](https://github.com/vibvinit/RDAMP-Dimensional-Model-PowerBI-/blob/main/Vineet_%20Superstore_MySQL_VIEWS.sql)
+[MYSQL_Create_views](https://github.com/vibvinit/RDAMP-Dimensional-Model-PowerBI-/blob/main/Vineet_%20Superstore_MySQL_VIEWS.sql)
 
 ---
 
@@ -79,8 +79,11 @@ Captures business transactions and metrics. Includes:
    ![MySQL_Navigator](Navigator.jpg)
 
 ---
+## Power BI Report 
+[Access the Power BI Report](https://github.com/vibvinit/RDAMP-Dimensional-Model-PowerBI-/blob/main/Vineet_Khurana_RDAMP_TASK2.pbix)
 
-## Power BI Report Screenshots
+---
+## Report Screenshots
 
 ### Product Seasonality Trends
 
@@ -117,3 +120,5 @@ Captures business transactions and metrics. Includes:
 ![Sales_contribution_by_segment_category](Sales_Contribution_by_segment.jpg)
 
 ---
+
+
